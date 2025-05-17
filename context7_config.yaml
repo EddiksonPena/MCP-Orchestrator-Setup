@@ -1,0 +1,6 @@
+# Context7 Integration Configuration
+context7:
+  api_key: "YOUR_CONTEXT7_API_KEY"
+  endpoint: "https://api.context7.com/v1/"
+  documentation_sources:
+    - "apple_developer_docs"
